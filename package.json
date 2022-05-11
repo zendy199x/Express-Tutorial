@@ -1,0 +1,28 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Express Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendy199x/Express-Tutotial.git"
+  },
+  "author": "Zendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zendy199x/Express-Tutotial/issues"
+  },
+  "homepage": "https://github.com/zendy199x/Express-Tutotial#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
